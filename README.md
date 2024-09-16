@@ -1,6 +1,6 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nevtr4l" src="https://avatars.githubusercontent.com/u/105143034?v=4">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nevtr4l" src="https://github.com/user-attachments/assets/66eb3094-b6ec-4b1b-9247-0cf653e8b2a3">
 
-# Hi, I'm Gian ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, I'm Gian ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 <div>
   <a href="https://github.com/zlarosav"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/zlarosav" alt="GitHub Badge"/></a>
