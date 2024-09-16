@@ -3,10 +3,9 @@
 # Hi, I'm Gian ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 <div>
-  <a href="https://github.com/zlarosav"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/zlarosav" alt="GitHub Badge"/></a>
-  <a href="https://twitter.com/zlarosav"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/zlarosav" alt="Twitter Badge"/></a>
-  <a href="https://discord.com/users/778005721148686386"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/778005721148686386" alt="Discord Badge"/></a>
-<a href="https://wakatime.com/@fae5538b-1de0-4b7d-b56c-73c358b7cd32"><img src="https://wakatime.com/badge/user/fae5538b-1de0-4b7d-b56c-73c358b7cd32.svg" alt="Total time coded since Jul 31 2023" /></a>
+  <a href="https://github.com/CesarCcama29"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/CesarCcama29" alt="GitHub Badge"/></a>
+  <a href="https://twitter.com/giancl_24"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/giancl_24" alt="Twitter Badge"/></a>
+<a href="https://wakatime.com/@458be1d9-d6f6-4506-a3fd-384da276d287"><img src="https://wakatime.com/badge/user/fae5538b-1de0-4b7d-b56c-73c358b7cd32.svg" alt="Total time coded since Jul 31 2023" /></a>
 </div>
 
 ---
