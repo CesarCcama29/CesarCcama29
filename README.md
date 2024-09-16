@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nevtr4l" src="https://github.com/user-attachments/assets/66eb3094-b6ec-4b1b-9247-0cf653e8b2a3">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nevtr4l" src="https://github.com/user-attachments/assets/023c7294-df51-4a26-8a97-2ef03b17cb02">
 
 # Hi, I'm Gian ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
