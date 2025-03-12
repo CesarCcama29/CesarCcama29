@@ -11,7 +11,7 @@
 ---
 
 Hola  soy un desarrollador web y analista de datos.
-Soy un apasionado por la programación,la musica y el cafe.La disciplia y el compromiso son tres factores que me definen. Me gusta dar siempre lo mejor de mi en todo por mas simple o complejoque pueda r a tarea.
+Soy un apasionado por la programación,la musica y el cafe.La disciplina y el compromiso son dos factores que me definen. Me gusta dar siempre lo mejor de mi en todo por mas simple o complejoque pueda r a tarea.
 
 * 🖥️  Puedes ver mi portafolio aquí [En proceso](https://github.com/CesarCcama29)
 * ✉️  Contáctame en [cesarccama29@gmail.com](mailto:cesarccama29@gmail.com)
